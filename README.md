@@ -1,8 +1,8 @@
 ## Hi there, I'm Sir.Caleb 🚀
 
 👨‍🎓 Software Engineering student at Aptech</br>
-👨‍💻 Fullstack Web developer and an upcoming block chain developer</br>
-📱 I also make basic Designs on Figma</br>
+👨‍💻 Fullstack Web developer and an upcoming blockchain developer</br>
+📱  I also make basic Designs on Figma</br>
 🎥 I also create inspirtional content on [instagram] https://www.instagram.com/kingcaleb_iii/</br>
 
 
@@ -24,6 +24,3 @@
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/calebeffiom) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
