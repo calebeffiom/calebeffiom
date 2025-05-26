@@ -1,7 +1,7 @@
 ## Hi there, I'm Sir.Caleb 🚀
 
 👨‍🎓 Software Engineering student at Aptech</br>
-👨‍💻 Fullstack Web developer</br>
+👨‍💻 Fullstack Web developer and an upcoming block chain developer</br>
 📱  I also make basic Designs on Figma</br>
 🎥 I also create inspirtional content on [instagram] https://www.instagram.com/kingcaleb_iii/</br>
 
