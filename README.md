@@ -1,10 +1,10 @@
 # Hi there, I'm Caleb! 👋
 ### 🚀 Full-Stack Developer | JavaScript & TypeScript Specialist
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://shields.io" alt="Status" />
   <img src="https://shields.io" alt="Focus" />
-</p>
+</p> -->
 
 ---
 
@@ -18,7 +18,7 @@ I just love to build cool stuff. Web2 or web3, manipulating 3d models and mobile
 <details open>
 <summary><b>💻 Backend & Database Mastery</b></summary>
 <br />
-<p align="left">
+<!-- <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://githubusercontent.com" alt="nodejs" width="50" height="50"/>
   </a>
@@ -31,13 +31,13 @@ I just love to build cool stuff. Web2 or web3, manipulating 3d models and mobile
   <a href="https://google.com" target="_blank" rel="noreferrer">
     <img src="https://vectorlogo.zone" alt="firebase" width="50" height="50"/>
   </a>
-</p>
+</p> -->
 </details>
 
 <details>
 <summary><b>🎨 Frontend & Animation Mastery</b></summary>
 <br />
-<p align="left">
+<!-- <p align="left">
   <a href="https://mozilla.org" target="_blank" rel="noreferrer">
     <img src="https://githubusercontent.com" alt="javascript" width="45" height="45"/>
   </a>
@@ -56,7 +56,7 @@ I just love to build cool stuff. Web2 or web3, manipulating 3d models and mobile
   <a href="https://w3schools.com" target="_blank" rel="noreferrer">
     <img src="https://githubusercontent.com" alt="css3" width="45" height="45"/>
   </a>
-</p>
+</p> -->
 </details>
 
 ---
