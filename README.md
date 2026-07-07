@@ -3,9 +3,9 @@
 <p><em>Software Enginner at <a href="http://t3kit.xyz">T3Kit</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://x.com/caleb_effiom)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/caleb-effiom-152915225/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/calebeffiom)
+[![Twitter: Caleb](https://img.shields.io/twitter/follow/calebeffiom?style=social)](https://x.com/caleb_effiom)
+[![Linkedin: Caleb](https://img.shields.io/badge/-calebeffiom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/caleb-effiom-152915225/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/calebeffiom?label=follow&style=social)](https://github.com/calebeffiom)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
