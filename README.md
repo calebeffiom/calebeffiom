@@ -1,6 +1,6 @@
 <h2> Hi, I'm Caleb! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2d4Y3czeXZobjJlYjl4eTliaGxmdDB1cnJodW1qZ3R6Z2p6dTV0ZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/WrUHZBuiX1F7dRB2w7/giphy.gif" width="50"></h2>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-<p><em>Software Enginner at <a href="http://t3kit.xyz">T3Kit</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="http://t3kit.xyz">T3Kit</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </em></p>
 
 [![Twitter: Caleb](https://img.shields.io/twitter/follow/calebeffiom?style=social)](https://x.com/caleb_effiom)
