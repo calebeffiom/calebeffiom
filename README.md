@@ -21,7 +21,7 @@ const caleb = {
 }
 ```
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhiYzR2dmw3Z3J5cWplN2dtaWJwdXp0YzduOWVpNzZhN2tzajFnNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pwrMzlfl5R0KkvG33q/giphy.gif" width="60"> <em><b>I'm open to making new friends and working on projects</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :) ❤️</em>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhiYzR2dmw3Z3J5cWplN2dtaWJwdXp0YzduOWVpNzZhN2tzajFnNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L9rqab3DGLtEXOMmxh/giphy.gif" width="60"> <em><b>I'm open to making new friends and working on projects</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :) ❤️</em>
 
 ---
 
